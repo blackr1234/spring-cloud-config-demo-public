@@ -1,0 +1,6 @@
+
+my.prop: 3
+
+order-test:
+  load-order-03: application.yaml
+  load-order-04: application.yaml

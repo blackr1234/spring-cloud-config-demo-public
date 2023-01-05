@@ -1,0 +1,5 @@
+
+my.prop: 4
+
+order-test:
+  load-order-04: spring-cloud-config-client-demo.yaml
