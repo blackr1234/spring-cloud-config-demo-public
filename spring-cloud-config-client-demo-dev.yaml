@@ -1,7 +1,5 @@
 
-my.prop: 2
+my.prop: 4
 
 order-test:
-  load-order-02: spring-cloud-config-client-demo-dev.yaml
-  load-order-03: spring-cloud-config-client-demo-dev.yaml
   load-order-04: spring-cloud-config-client-demo-dev.yaml
